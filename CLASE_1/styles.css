@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;1,100;1,300;1,400&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif; 
+    background-image: url('images/cheese.jpeg');
+}
+section {
+  background: purple;
+  color: white;     
+}
+img {
+  width: 250px;
+  height: auto;
+}
+nav {
+  color: white;
+}
+
+#titulos {
+  background-color: green;
+}
+
+#deportes h3 {
+  font-size: 26px;
+}
+img {
+  width: 350px;
+  height: auto;
+}
+#perrito img:hover {
+  width: 550px;
+}
+
+.lista {
+  color: yellowgreen;
+}
+footer{
+    background: black;
+}
+.rojo{
+    color: red;
+}
+.red_title{
+  color: red;
+}
+
+.purple_title{
+  color:purple;
+}
