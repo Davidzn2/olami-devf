@@ -3,5 +3,6 @@ h2{
 }
 .titulo{
     color: aqua;
-    border: 20px solid black;
+    border: 2px solid black;
+    text-align: center;
 }
